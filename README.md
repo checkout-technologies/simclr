@@ -98,7 +98,7 @@ python run.py --mode=train_then_eval --train_mode=finetune \
 
 As a reference, the above runs on ImageNet should give you around 64.5% accuracy.
 
-## Others
+## Others - implementation with Custom dataset 
 
 ### Semi-supervised learning
 
